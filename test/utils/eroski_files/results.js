@@ -1,0 +1,1 @@
+(function(){define(["jquery","common/button/btnUpToTop"],function(b,c){function a(){c.init()}return{init:a}})}).call(this);

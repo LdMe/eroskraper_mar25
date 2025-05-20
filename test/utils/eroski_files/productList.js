@@ -1,0 +1,1 @@
+(function(){define(["jquery","t5/core/ajax","slick"],function(b,a){function d(){c()}function c(){b(".product-item-lineal .product-slider:not(.slick-initialized)").each(function(){b(this).slick({dots:false,infinite:true,speed:300,slidesToShow:1,slidesToScroll:1,autoplay:false});b(this).css("visibility","visible")})}return{init:d}})}).call(this);

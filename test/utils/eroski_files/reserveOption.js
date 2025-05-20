@@ -1,0 +1,1 @@
+(function(){define(["jquery"],function(b){function a(d){var c=b(".purchasing-process-item.reserve");c.removeClass("reserve-first-available reserve-address");c.addClass(d)}return{setReserveClass:a}})}).call(this);

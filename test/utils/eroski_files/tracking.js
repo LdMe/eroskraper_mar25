@@ -1,0 +1,1 @@
+(function(){define(function(){function a(b){window.dataLayer=window.dataLayer||[];dataLayer.push(JSON.parse(b))}return{init:a}})}).call(this);
